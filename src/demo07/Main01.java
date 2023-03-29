@@ -9,7 +9,7 @@ import java.util.Set;
  * 特点: 无序、无下标、元素不可重复。
  *
  */
-public class Main {
+public class Main01 {
     public static void main(String[] args) {
         // 创建集合
         Set<String> set = new HashSet<>();
