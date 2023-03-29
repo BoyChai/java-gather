@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc6e00a-9226-455e-b743-4911aa3fc900" name="变更" comment="泛型类">
-      <change afterPath="$PROJECT_DIR$/src/demo06/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo06/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2dc6e00a-9226-455e-b743-4911aa3fc900" name="变更" comment="泛型接口">
+      <change afterPath="$PROJECT_DIR$/src/demo06/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo06/MyGenericMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Main02 (1)">
+  <component name="RunManager" selected="应用程序.Main03">
     <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo05.Main01" />
       <module name="gather" />
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo04.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo04.Main01" />
+    <configuration name="Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo06.Main03" />
       <module name="gather" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo04.*" />
+          <option name="PATTERN" value="demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main03" />
         <item itemvalue="应用程序.Main02 (1)" />
         <item itemvalue="应用程序.Main02" />
         <item itemvalue="应用程序.demo06.Main01" />
         <item itemvalue="应用程序.Main01" />
-        <item itemvalue="应用程序.demo04.Main01" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +137,7 @@
       <workItem from="1679923207242" duration="5079000" />
       <workItem from="1680001140107" duration="4844000" />
       <workItem from="1680010807074" duration="2274000" />
-      <workItem from="1680074503513" duration="2214000" />
+      <workItem from="1680074503513" duration="3080000" />
     </task>
     <task id="LOCAL-00001" summary="collection">
       <created>1679908894657</created>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680075791293</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="泛型接口">
+      <created>1680076778410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680076778410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +220,7 @@
     <MESSAGE value="Vector - 2" />
     <MESSAGE value="LinkedList" />
     <MESSAGE value="泛型类" />
-    <option name="LAST_COMMIT_MESSAGE" value="泛型类" />
+    <MESSAGE value="泛型接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型接口" />
   </component>
 </project>
