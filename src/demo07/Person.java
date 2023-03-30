@@ -4,7 +4,7 @@ package demo07;
  * 人类
  */
 
-public class Person {
+public class Person  implements Comparable<Person>{
     private String name;
     private int age;
 
@@ -60,5 +60,13 @@ public class Person {
             }
         }
         return false;
+    }
+
+    // 先按姓名比，然后再按年龄比
+    @Override
+    public int compareTo(Person o) {
+        int n1 = this.getName().compareTo(o.getName());
+        int n2 = this.age - o.getAge();
+        return n1==0?n2:n1;
     }
 }
