@@ -2,7 +2,7 @@ package demo10;
 
 import java.util.Objects;
 
-public class Student {
+public class Student implements Comparable<Student> {
     private String name;
     private int stuNo;
 
@@ -51,5 +51,13 @@ public class Student {
         int result = name != null ? name.hashCode() : 0;
         result = 31 * result + stuNo;
         return result;
+    }
+
+
+    @Override
+    public int compareTo(Student o) {
+//        int n1 = this.name.compareTo(o.getName());
+        int n2 = this.stuNo-o.getStuNo();
+        return n2;
     }
 }

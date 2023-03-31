@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc6e00a-9226-455e-b743-4911aa3fc900" name="变更" comment="TreeSet - 2">
-      <change afterPath="$PROJECT_DIR$/src/demo10/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo10/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo10/Student.java" afterDir="false" />
+    <list default="true" id="2dc6e00a-9226-455e-b743-4911aa3fc900" name="变更" comment="HashMap">
+      <change afterPath="$PROJECT_DIR$/src/demo11/Main01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo10/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +51,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.demo10.Main02">
+  <component name="RunManager" selected="应用程序.demo11.Main01">
     <configuration name="Main01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo09.Main01" />
-      <module name="gather" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo09.Main01" />
       <module name="gather" />
       <extension name="coverage">
@@ -118,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo11.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo11.Main01" />
+      <module name="gather" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.demo11.Main01" />
         <item itemvalue="应用程序.demo10.Main02" />
         <item itemvalue="应用程序.demo10.Main01" />
         <item itemvalue="应用程序.Main02" />
         <item itemvalue="应用程序.Main01 (1)" />
-        <item itemvalue="应用程序.Main01" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +146,7 @@
       <workItem from="1680096450172" duration="4669000" />
       <workItem from="1680186622183" duration="1957000" />
       <workItem from="1680188643273" duration="101000" />
-      <workItem from="1680249859763" duration="6366000" />
+      <workItem from="1680249859763" duration="6762000" />
     </task>
     <task id="LOCAL-00001" summary="collection">
       <created>1679908894657</created>
@@ -240,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680250990642</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HashMap">
+      <created>1680256687838</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680256687838</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +276,7 @@
     <MESSAGE value="HashSet" />
     <MESSAGE value="TreeSet" />
     <MESSAGE value="TreeSet - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="TreeSet - 2" />
+    <MESSAGE value="HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap" />
   </component>
 </project>
