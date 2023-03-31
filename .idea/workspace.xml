@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dc6e00a-9226-455e-b743-4911aa3fc900" name="变更" comment="TreeSet - 2">
-      <change afterPath="$PROJECT_DIR$/src/demo09/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo09/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo10/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo10/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo10/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Main02">
+  <component name="RunManager" selected="应用程序.demo10.Main02">
     <configuration name="Main01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo09.Main01" />
       <module name="gather" />
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo08.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo08.Main01" />
+    <configuration name="demo10.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo10.Main01" />
       <module name="gather" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo08.*" />
+          <option name="PATTERN" value="demo10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo08.Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo08.Main02" />
+    <configuration name="demo10.Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo10.Main02" />
       <module name="gather" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo08.*" />
+          <option name="PATTERN" value="demo10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.demo10.Main02" />
+        <item itemvalue="应用程序.demo10.Main01" />
         <item itemvalue="应用程序.Main02" />
         <item itemvalue="应用程序.Main01 (1)" />
         <item itemvalue="应用程序.Main01" />
-        <item itemvalue="应用程序.demo08.Main02" />
-        <item itemvalue="应用程序.demo08.Main01" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,7 @@
       <workItem from="1680096450172" duration="4669000" />
       <workItem from="1680186622183" duration="1957000" />
       <workItem from="1680188643273" duration="101000" />
-      <workItem from="1680249859763" duration="915000" />
+      <workItem from="1680249859763" duration="6366000" />
     </task>
     <task id="LOCAL-00001" summary="collection">
       <created>1679908894657</created>
@@ -232,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680188573931</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="TreeSet - 2">
+      <created>1680250990642</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250990642</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
